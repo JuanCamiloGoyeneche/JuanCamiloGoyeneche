@@ -1,4 +1,4 @@
-# [Juan Camilo Goyeneche]
+# Juan Camilo Goyeneche
 🎯 Desarrollador Full Stack | Especialista en Soluciones Web Innovadoras
 
 ## Sobre mí
