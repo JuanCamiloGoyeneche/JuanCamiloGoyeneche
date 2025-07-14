@@ -41,50 +41,7 @@
       </div>
     </div>
 
-    <!-- Proyecto 2 -->
-    <div class="project-card">
-      <div class="card-header">
-        <h3>Aplicación Móvil Flutter</h3>
-        <div class="badges">
-          <img src="https://img.shields.io/badge/Stack-Flutter-02569B?style=for-the-badge&logo=flutter" alt="Flutter">
-          <img src="https://img.shields.io/badge/Status-DEMO-FF4081?style=for-the-badge" alt="Status Demo">
-        </div>
-      </div>
-      <div class="card-content">
-        <p>📱 Desarrollo de aplicaciones móviles multiplataforma</p>
-        <p>🔄 Funcionalidad offline y sincronización</p>
-        <p>📈 Análisis de rendimiento y optimización</p>
-      </div>
-      <div class="card-footer">
-        <a href="https://github.com/juancamilogoyeneche/flutter-project" target="_blank">
-          <img src="https://img.shields.io/badge/GitHub-Repo-02569B?style=for-the-badge&logo=flutter" alt="GitHub Repo">
-        </a>
-      </div>
-    </div>
-
-    <!-- Proyecto 3 -->
-    <div class="project-card">
-      <div class="card-header">
-        <h3>Backend Python</h3>
-        <div class="badges">
-          <img src="https://img.shields.io/badge/Stack-Python-3776AB?style=for-the-badge&logo=python" alt="Python">
-          <img src="https://img.shields.io/badge/Status-DEVELOPMENT-FF9800?style=for-the-badge" alt="Status Development">
-        </div>
-      </div>
-      <div class="card-content">
-        <p>🔒 Desarrollo de APIs seguras y escalables</p>
-        <p>📊 Integración con bases de datos relacionales</p>
-        <p>🔄 Implementación de caché y optimización</p>
-      </div>
-      <div class="card-footer">
-        <a href="https://github.com/juancamilogoyeneche/backend-project" target="_blank">
-          <img src="https://img.shields.io/badge/GitHub-Repo-3776AB?style=for-the-badge&logo=python" alt="GitHub Repo">
-        </a>
-      </div>
-    </div>
-  </div>
-</div>
-
+    
 ## 📈 Impacto en la Comunidad
 <div align="center">
   <div style="display: flex; flex-wrap: wrap; gap: 20px; justify-content: center;">
