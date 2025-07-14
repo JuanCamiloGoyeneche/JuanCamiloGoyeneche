@@ -1,6 +1,6 @@
 # 🌟 Juan Camilo Goyeneche 👋
 <div align="center">
-  <img src="https://i.imgur.com/weNbhGZ.png" alt="Banner Principal" style="border-radius: 20px; width: 100%; max-width: 800px; margin: 20px 0;">
+  <img src="" alt="Banner Principal" style="border-radius: 20px; width: 100%; max-width: 800px; margin: 20px 0;">
 </div>
 
 ## 🎯 Resumen Profesional
