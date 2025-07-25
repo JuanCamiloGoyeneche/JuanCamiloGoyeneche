@@ -1,6 +1,6 @@
 # 🌟 Juan Camilo Goyeneche 👋
 <div align="center">
-  <img src="https://github.com/user-attachments/assets/75732ed1-65be-450b-98e7-ebe4f12d0fe9)
+  <img src="![BANNER GIT HUB](https://github.com/user-attachments/assets/13e2629b-b493-4707-9f9c-f18cc965a1fb)
 " alt="Banner Principal" style="border-radius: 20px; width: 100%; max-width: 800px; margin: 20px 0;">
 </div>
 
