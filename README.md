@@ -12,7 +12,7 @@
 🔹 Experto en Analisis y Desarrollo de Software
 
 ## 📊 Métricas de Impacto
-<div align="center">
+<div align="left">
   <div style="display: flex; flex-wrap: wrap; gap: 20px; justify-content: center;">
     <img src="https://github-readme-stats.vercel.app/api?username=juancamilogoyeneche&show_icons=true&theme=dark&include_all_commits=true&count_private=true" alt="Estadísticas de GitHub" style="max-width: 100%; height: auto;">
     <img src="https://github-readme-streak-stats.herokuapp.com/?user=juancamilogoyeneche&theme=dark&date_format=jQL" alt="Racha de Contribuciones" style="max-width: 100%; height: auto;">
