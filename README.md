@@ -3,20 +3,15 @@
   <img src="https://raw.githubusercontent.com/juancamilogoyeneche/JuanCamiloGoyeneche/main/assets/banner.jpg" alt="Banner Camilo Developer" style="border-radius: 20px; width: 100%; max-width: 800px; margin: 20px 0;">
 </div>
 
-
 ## 🎯 Resumen Profesional
-🔹 Experto en desarrollo de aplicaciones web y móviles
-
-🔹 Especialista en soluciones tecnológicas innovadoras
-
-🔹 Experto en Analisis y Desarrollo de Software
+🔹 Experto en desarrollo de aplicaciones web y móviles  
+🔹 Especialista en soluciones tecnológicas innovadoras  
+🔹 Experto en Analisis y Desarrollo de Software  
 
 ## 📊 Métricas de Impacto
-<div align="left">
-  <div style="display: flex; flex-wrap: wrap; gap: 20px; justify-content: center;">
-    <img src="https://github-readme-stats.vercel.app/api?username=juancamilogoyeneche&show_icons=true&theme=dark&include_all_commits=true&count_private=true" alt="Estadísticas de GitHub" style="max-width: 100%; height: auto;">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=juancamilogoyeneche&theme=dark&date_format=jQL" alt="Racha de Contribuciones" style="max-width: 100%; height: auto;">
-  </div>
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=juancamilogoyeneche&show_icons=true&theme=dark&include_all_commits=true&count_private=true" alt="Estadísticas de GitHub" width="400px" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=juancamilogoyeneche&theme=dark&date_format=jQL" alt="Racha de Contribuciones" width="400px" />
 </div>
 
 ## 🚀 Proyectos Destacados
@@ -28,6 +23,9 @@
         <h3>App Learning English</h3>
         <div class="badges">
           <!-- Logos HTML CSS JAVASCRIPT -->
+          <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5">
+          <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3">
+          <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript">
         </div>
       </div>
       <div class="card-content">
@@ -41,8 +39,9 @@
         </a>
       </div>
     </div>
+  </div>
+</div>
 
-    
 ## 📈 Impacto en la Comunidad
 <div align="left">
   <div style="display: flex; flex-wrap: wrap; gap: 20px; justify-content: center;">
@@ -73,10 +72,10 @@
     <a href="https://github.com/juancamilogoyeneche" target="_blank">
       <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
     </a>
-    <a href="www.linkedin.com/in/juan-camilo-goyeneche-98a091277" target="_blank">
+    <a href="https://www.linkedin.com/in/juan-camilo-goyeneche-98a091277/" target="_blank">
       <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
     </a>
-    <a href="https://mail.google.com/mail/u/0/?tab=rm&ogbl#inbox" target="_blank">
+    <a href="mailto:juancamilogoyeneche@email.com" target="_blank">
       <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
     </a>
   </div>
