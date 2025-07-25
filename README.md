@@ -12,7 +12,7 @@
 🔹 Experto en Analisis y Desarrollo de Software
 
 ## 📊 Métricas de Impacto
-<div align="center">
+<div align="left">
   <div style="display: flex; flex-wrap: wrap; gap: 20px; justify-content: center;">
     <img src="https://github-readme-stats.vercel.app/api?username=juancamilogoyeneche&show_icons=true&theme=dark&include_all_commits=true&count_private=true" alt="Estadísticas de GitHub" style="max-width: 100%; height: auto;">
     <img src="https://github-readme-streak-stats.herokuapp.com/?user=juancamilogoyeneche&theme=dark&date_format=jQL" alt="Racha de Contribuciones" style="max-width: 100%; height: auto;">
@@ -37,8 +37,8 @@
         <p>💻 Completamente funcional</p>
       </div>
       <div class="card-footer">
-        <a href="https://github.com/JuanCamiloGoyeneche" target="_blank">
-          <img src="https://github.com/JuanCamiloGoyeneche/learningenglishjs.git" alt="GitHub Repo">
+        <a href="https://github.com/juancamilogoyeneche/react-project" target="_blank">
+          <img src="https://img.shields.io/badge/GitHub-Repo-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Repo">
         </a>
       </div>
     </div>
@@ -74,8 +74,8 @@
     <a href="https://github.com/juancamilogoyeneche" target="_blank">
       <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
     </a>
-    <a href="https://linkedin.com/in/juancamilogoyeneche" target="_blank">
-      <img src="www.linkedin.com/in/juan-camilo-goyeneche-98a091277" alt="LinkedIn">
+    <a href="www.linkedin.com/in/juan-camilo-goyeneche-98a091277" target="_blank">
+      <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
     </a>
     <a href="https://mail.google.com/mail/u/0/?tab=rm&ogbl#inbox" target="_blank">
       <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
