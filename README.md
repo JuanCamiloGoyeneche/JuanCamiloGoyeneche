@@ -1,7 +1,6 @@
 # 🌟 Juan Camilo Goyeneche 👋
 <div align="center">
-  <img src="![CT_HCM](https://raw.githubusercontent.com/id1945/id1945/main/image/chu-tich-ho-chi-minh/ho-tap-tu-tuong-dao-duc-ho-chi-minh.png)
-" alt="Banner Principal" style="border-radius: 20px; width: 100%; max-width: 800px; margin: 20px 0;">
+  <img src="![BANNER GIT HUB](https://github.com/user-attachments/assets/4c10ba02-7e3b-41b0-8bff-f2c94a2185bf)" alt="" style="border-radius: 20px; width: 100%; max-width: 800px; margin: 20px 0;">
 </div>
 
 ## 🎯 Resumen Profesional
