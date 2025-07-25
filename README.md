@@ -12,7 +12,7 @@
 🔹 Experto en Analisis y Desarrollo de Software
 
 ## 📊 Métricas de Impacto
-<div align="left">
+<div align="center">
   <div style="display: flex; flex-wrap: wrap; gap: 20px; justify-content: center;">
     <img src="https://github-readme-stats.vercel.app/api?username=juancamilogoyeneche&show_icons=true&theme=dark&include_all_commits=true&count_private=true" alt="Estadísticas de GitHub" style="max-width: 100%; height: auto;">
     <img src="https://github-readme-streak-stats.herokuapp.com/?user=juancamilogoyeneche&theme=dark&date_format=jQL" alt="Racha de Contribuciones" style="max-width: 100%; height: auto;">
@@ -20,7 +20,7 @@
 </div>
 
 ## 🚀 Proyectos Destacados
-<div align="center">
+<div align="left">
   <div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(300px, 1fr)); gap: 20px; padding: 20px;">
     <!-- Proyecto 1 -->
     <div class="project-card">
@@ -45,7 +45,7 @@
 
     
 ## 📈 Impacto en la Comunidad
-<div align="center">
+<div align="left">
   <div style="display: flex; flex-wrap: wrap; gap: 20px; justify-content: center;">
     <div class="community-card">
       <h3>Desarrollo Web</h3>
@@ -69,7 +69,7 @@
 </div>
 
 ## 📱 Redes Sociales
-<div align="center">
+<div align="left">
   <div style="display: flex; gap: 20px; justify-content: center;">
     <a href="https://github.com/juancamilogoyeneche" target="_blank">
       <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
