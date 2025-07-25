@@ -29,19 +29,41 @@ Desarrollador en formación apasionado por el desarrollo móvil y web, en consta
   <a href="https://github.com/juancamilogoyeneche" target="_blank">
     <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
   </a>
-  <a href="https://www.linkedin.com/in/juancamilogoyeneche" target="_blank">
+  <a href="https://www.linkedin.com/in/juan-camilo-goyeneche-98a091277/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
   </a>
-  <a href="mailto:juancamilogoyeneche@example.com">
+  <a href="https://mail.google.com/mail/u/0/?tab=rm&ogbl#inbox">
     <img src="https://img.shields.io/badge/Correo-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Correo">
   </a>
 </div>
 
 ---
 
-### 🧠 Actualmente estoy trabajando en:
-- Un **repositorio interno tipo red social** con **Power Apps, SharePoint y Power Automate** para la empresa **AudioBrand**.
-- Entrenamiento intensivo para **WorldSkills Colombia 2025**.
+### 🧠 Actualmente aprendiendo
+
+- Arquitectura de software
+- Desarrollo móvil avanzado con Flutter
+- Buenas prácticas de desarrollo
+- Optimización de rendimiento en aplicaciones
+- Desarrollo web con React
+
+---
+
+### 🧩 Proyectos destacados
+
+| Proyecto | Descripción | Tecnologías |
+|----------|-------------|-------------|
+| 📱 App Learning English | Proyecto creación de juego | HTML, CSS, JAVASCRIPT |
+| 🐄 Sistema de raciones ganaderas | Software para cálculo de raciones en bovinos en el Centro Biotecnológico del Caribe | Python, Flask, React |
+| 🌐 Portafolio Web | Mi portafolio profesional con proyectos, artículos y contacto | HTML, CSS, JS, GitHub Pages |
+
+---
+
+### 🌟 Competencias
+
+🎖️ Representante del SENA CBC en **WorldSkills Colombia 2025**  
+📱 Modalidad: **Desarrollo Móvil**  
+🎯 Preparación en backend y frontend sin conexión a internet, con generación de APK y entrega profesional.
 
 ---
 
