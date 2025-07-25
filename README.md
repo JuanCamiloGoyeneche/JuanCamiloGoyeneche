@@ -1,62 +1,60 @@
 <div align="center">
-  <img src="https://raw.githubusercontent.com/juancamilogoyeneche/JuanCamiloGoyeneche/main/assets/banner.png" alt="Banner Juan Camilo Goyeneche" style="border-radius: 20px; width: 100%; max-width: 800px; margin: 20px 0;">
+  <!-- Banner de perfil -->
+  <img src="https://raw.githubusercontent.com/juancamilogoyeneche/JuanCamiloGoyeneche/main/assets/banner.png" alt="Banner de Juan Camilo Goyeneche" style="border-radius: 15px; width: 100%; max-width: 900px;">
 </div>
 
 ---
 
-### 👋 ¡Hola! Soy Juan Camilo Goyeneche
+## 👋 ¡Hola! Soy Juan Camilo Goyeneche
 
-Desarrollador de software en formación apasionado por la tecnología, el aprendizaje constante y el desarrollo de soluciones innovadoras. Actualmente represento al SENA Centro Biotecnológico del Caribe en la competencia **WorldSkills Colombia 2025** en la categoría de **Desarrollo Móvil**.
-
----
-
-### 🚀 Tecnologías y herramientas que manejo
-
-- 💻 **Lenguajes:** JavaScript, Python, PHP, Java, HTML5, CSS3
-- 📱 **Frameworks:** Flutter, React, Bootstrap
-- 🧠 **Backend:** Node.js, Flask, FastAPI, PHP
-- 🧰 **Herramientas:** Git, GitHub, Figma, VSCode, Postman
-- 📊 **Power Platform:** Power Apps, Power Automate, SharePoint
+🎓 Tecnólogo en Análisis y Desarrollo de Software en formación  
+📱 Apasionado por el desarrollo móvil y backend  
+💡 Me encanta aprender, crear soluciones reales y representar al SENA con orgullo
 
 ---
 
-### 🧠 Actualmente aprendiendo
+## 🌐 Conéctate conmigo
 
-- Arquitectura de software
-- Desarrollo móvil avanzado con Flutter
-- Buenas prácticas de desarrollo
-- Optimización de rendimiento en aplicaciones
-
----
-
-### 🧩 Proyectos destacados
-
-| Proyecto | Descripción | Tecnologías |
-|----------|-------------|-------------|
-| 📱 Repositorio Interno tipo Red Social | Proyecto para AudioBrand desarrollado con Power Platform durante mi práctica SENA | Power Apps, SharePoint, Power Automate |
-| 🐄 Sistema de raciones ganaderas | App para cálculo de raciones en bovinos en el Centro Biotecnológico del Caribe | Python, Flask, Power BI, Excel |
-| 🌐 Portafolio Web | Mi portafolio profesional con proyectos, artículos y contacto | HTML, CSS, JS, GitHub Pages |
-
----
-
-### 🌟 Competencias
-
-🎖️ Representante del SENA CBC en **WorldSkills Colombia 2025**  
-📱 Modalidad: **Desarrollo Móvil**  
-🎯 Preparación en backend y frontend sin conexión a internet, con generación de APK y entrega profesional.
+<p align="center">
+  <a href="https://www.linkedin.com/in/juancamilogoyeneche" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="mailto:juancamilo.goyeneche@email.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white" alt="Email" />
+  </a>
+  <a href="https://github.com/juancamilogoyeneche" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white" alt="GitHub" />
+  </a>
+  <a href="https://t.me/tuUsuarioTelegram" target="_blank">
+    <img src="https://img.shields.io/badge/Telegram-26A5E4?style=flat&logo=telegram&logoColor=white" alt="Telegram" />
+  </a>
+</p>
 
 ---
 
-### 📬 Contacto
+## 🛠️ Tecnologías que manejo
 
-- 📧 Email: juancamilo.dev@gmail.com  
-- 🌐 Web personal: [juancamilogoyeneche.github.io](https://juancamilogoyeneche.github.io)  
-- 💼 LinkedIn: [linkedin.com/in/juancamilogoyeneche](https://linkedin.com/in/juancamilogoyeneche)  
-- 💻 GitHub: [@juancamilogoyeneche](https://github.com/juancamilogoyeneche)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat&logo=flutter&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat&logo=firebase&logoColor=black)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
 
 ---
 
-<div align="center">
-  <img src="https://skillicons.dev/icons?i=js,py,php,flutter,html,css,react,git,figma" />
-</div>
+## 🚀 Actualmente
 
+- 🔭 Preparándome para la competencia **WorldSkills Colombia - Desarrollo Móvil 2025**
+- 🧠 Estudiando intensivamente **Flutter, Backend con Python y Firebase**
+- 🏢 Realizando práctica profesional en **AudioBrand** con Power Apps y SharePoint
+
+---
+
+## 📈 Estadísticas de GitHub
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=juancamilogoyeneche&show_icons=true&theme=radical" alt="Estadísticas de GitHub" />
+</p>
