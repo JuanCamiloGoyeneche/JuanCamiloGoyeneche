@@ -1,7 +1,8 @@
 # 🌟 Juan Camilo Goyeneche 👋
 <div align="center">
-  <img src="![BANNER GIT HUB](https://github.com/user-attachments/assets/4c10ba02-7e3b-41b0-8bff-f2c94a2185bf)" alt="" style="border-radius: 20px; width: 100%; max-width: 800px; margin: 20px 0;">
+  <img src="https://raw.githubusercontent.com/juancamilogoyeneche/JuanCamiloGoyeneche/main/assets/banner.jpg" alt="Banner Camilo Developer" style="border-radius: 20px; width: 100%; max-width: 800px; margin: 20px 0;">
 </div>
+
 
 ## 🎯 Resumen Profesional
 🔹 Experto en desarrollo de aplicaciones web y móviles
